@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bella Steedly</h1>
-<h3 align="left">I will be graduating from Wellesley College in May 2024 with a double major in Computer Science and Economics. Next year, I will be starting a Computer Science master's program. I am an undergraduate researcher working on the Algorithm Wiki project at MIT's FutureTech Lab.</h3>
+<h3 align="left">I am a computer science master's student at Brown graduating in May 2026. I am most excited about working on problems in the areas of computer vision, computer graphics, and deep learning. I'm looking for a summer internship to help me hone my coding skills and apply what I'm learning in a production environment. </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
